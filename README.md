@@ -1,5 +1,3 @@
-<iframe src="https://googlest.cn" scrolling="auto" style="width: 100%; height: 100%; left: 1px; top: 1px; border: none; background: rgb(255, 255, 255);"></iframe>
-
 # Telegram下载全攻略：tg下载与电报官网详解
 
 在瞬息万变的数字时代，通讯工具的选择对我们的生活和工作至关重要。Telegram（电报）作为一款备受欢迎的即时通讯软件，以其安全性、快速性和多样化的功能赢得了全球用户的青睐。本文将围绕关键词【tg下载，Telegram官网，纸飞机下载，电报下载，电报官网】进行详细探讨，帮助用户全面了解如何下载和使用Telegram。
